@@ -95,19 +95,19 @@ Twilio Media Streams
 
 ## Home Dashboard
 
-(docs/images/homepage.png)
+![Homepage](docs/images/homepage.png)
 
 ## Live Conversation
 
-*(Add Screenshot)*
+![Live conversation](docs/images/LiveConversation.png)
 
 ## Appointment Booking
 
-*(Add Screenshot)*
+![Appointment booking](docs/images/AppointmentBooking.png)
 
 ## Google Calendar Event
 
-*(Add Screenshot)*
+![Google calendar](docs/images/calendarBooking.png)
 
 ---
 

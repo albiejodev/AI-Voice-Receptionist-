@@ -89,9 +89,6 @@ Twilio Media Streams
 ```
 
 ---
-## Demo Video
-
-![Link](https://youtu.be/vsnq6ZAFDVw)
 
 # 📸 Screenshots
 
@@ -115,7 +112,7 @@ Twilio Media Streams
 
 # 🎬 Demo Video
 
-Add your YouTube or Loom link here.
+![Link](https://youtu.be/vsnq6ZAFDVw)
 
 ---
 

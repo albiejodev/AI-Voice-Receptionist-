@@ -59,8 +59,7 @@ https://github.com/albiejodev/VoicePilot-AI_Frontend
 - ✅ Live transcript streaming
 - 🚧 Twilio Media Streams (planned)
 
----
-
+--- 
 # 🏗 System Architecture
 
 ```text
@@ -90,6 +89,9 @@ Twilio Media Streams
 ```
 
 ---
+## Demo Video
+
+![Link](https://youtu.be/vsnq6ZAFDVw)
 
 # 📸 Screenshots
 

@@ -28,7 +28,7 @@ https://github.com/albiejodev/VoicePilot-AI_Backend
 
 ### Frontend Repository
 
-https://github.com/albiejodev/VoicePilot-AI_WebClient
+https://github.com/albiejodev/VoicePilot-AI_Frontend
 
 ---
 

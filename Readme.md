@@ -95,7 +95,7 @@ Twilio Media Streams
 
 ## Home Dashboard
 
-*(Add Screenshot)*
+(docs/images/homepage.png)
 
 ## Live Conversation
 

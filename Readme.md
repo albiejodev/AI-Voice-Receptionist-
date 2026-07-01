@@ -112,7 +112,7 @@ Twilio Media Streams
 
 # 🎬 Demo Video
 
-![Link](https://youtu.be/vsnq6ZAFDVw)
+[![VoicePilot AI Demo](https://img.youtube.com/vi/vsnq6ZAFDVw/maxresdefault.jpg)](https://youtu.be/vsnq6ZAFDVw)
 
 ---
 

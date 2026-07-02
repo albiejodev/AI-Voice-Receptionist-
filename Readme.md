@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 VoicePilot AI is a full-stack AI voice receptionist that enables natural spoken conversations with an AI assistant.
 
@@ -15,7 +15,7 @@ The current implementation uses a **React Web Client**. The backend is designed 
 
 ---
 
-# 📦 Project Repositories
+#  Project Repositories
 
 | Repository | Description |
 |------------|-------------|
@@ -32,7 +32,7 @@ https://github.com/albiejodev/VoicePilot-AI_Frontend
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 - React
 - TypeScript
@@ -48,7 +48,7 @@ https://github.com/albiejodev/VoicePilot-AI_Frontend
 
 ---
 
-# ✨ Features
+#  Features
 
 - ✅ Real-time voice conversations
 - ✅ Live Speech-to-Text
@@ -60,7 +60,7 @@ https://github.com/albiejodev/VoicePilot-AI_Frontend
 - 🚧 Twilio Media Streams (planned)
 
 --- 
-# 🏗 System Architecture
+#  System Architecture
 
 ```text
 React Web Client
@@ -90,7 +90,7 @@ Twilio Media Streams
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 ## Home Dashboard
 
@@ -110,13 +110,13 @@ Twilio Media Streams
 
 ---
 
-# 🎬 Demo Video
+#  Demo Video
 
 [![VoicePilot AI Demo](https://img.youtube.com/vi/vsnq6ZAFDVw/maxresdefault.jpg)](https://youtu.be/vsnq6ZAFDVw)
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 VoicePilot-AI/
@@ -130,7 +130,7 @@ VoicePilot-AI/
 
 ---
 
-# 🚀 Quick Start
+#  Quick Start
 
 1. Clone the backend repository.
 2. Follow the backend setup guide.
@@ -141,13 +141,13 @@ VoicePilot-AI/
 
 ---
 
-# 💡 Why This Project?
+#  Why This Project?
 
 VoicePilot AI demonstrates how modern conversational AI systems combine streaming speech, LLM reasoning, memory, external tool execution and speech synthesis into a seamless real-time experience.
 
 ---
 
-# 📚 Challenges & Learnings
+#  Challenges & Learnings
 
 - Streaming audio over WebSockets
 - Async FastAPI workflows
@@ -158,7 +158,7 @@ VoicePilot AI demonstrates how modern conversational AI systems combine streamin
 
 ---
 
-# 🛣 Future Roadmap
+#  Future Roadmap
 
 - Twilio Media Streams
 - RAG Knowledge Base

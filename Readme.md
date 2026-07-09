@@ -30,6 +30,10 @@ https://github.com/albiejodev/VoicePilot-AI_Backend
 
 https://github.com/albiejodev/VoicePilot-AI_Frontend
 
+### Demo 
+
+https://www.youtube.com/watch?v=vsnq6ZAFDVw
+
 ---
 
 #  Technology Stack
